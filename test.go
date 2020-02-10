@@ -1,1 +1,5 @@
-hello word
+package "fmt"
+
+func main(){
+    fmt.Print("FMT")
+}
